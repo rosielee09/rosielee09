@@ -30,7 +30,9 @@ Hello! I'm Rosie, Front-end developer in Vancouver, Canada!
 ## ⚡ Fun fact about me
 - Learning swimming
 - Interested in self-motivation
+- Self-taught front-end developer
 - Exercise every morning
+- Love building Harry Potter Lego
 - Proud owner of a lovely cat named Berry
 
 ## 👯 Let's connect
