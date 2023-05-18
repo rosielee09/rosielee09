@@ -21,5 +21,5 @@ Hello! I'm Rosie, Front-end developer in Vancouver, Canada!
 - Proud owner of a lovely cat named Berry
 
 ## 👯 Let's connect
-- [Linkedin](https://www.linkedin.com/in/bohye-lee-5255a1135/)
+- [Linkedin](https://www.linkedin.com/in/rosie-bh-lee/)
 - [GitHub](https://github.com/rosielee09)
