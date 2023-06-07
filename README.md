@@ -14,12 +14,13 @@ Hello! I'm Rosie, Front-end developer in Vancouver, Canada!
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 
 ## ⚡ Fun fact about me
-- Learning swimming
+- Currently doing #100DaysOfCode challanges  @developingwithrosie 
 - Interested in self-motivation
-- Exercise every morning
-- Love building Harry Potter Lego
+- Exercise every day
+- Love building Harry Potter Legos 
 - Proud owner of a lovely cat named Berry
 
 ## 👯 Let's connect
 - [Linkedin](https://www.linkedin.com/in/rosie-bh-lee/)
 - [GitHub](https://github.com/rosielee09)
+- [Instagram](https://www.instagram.com/developingwithrosie/)
