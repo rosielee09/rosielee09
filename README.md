@@ -1,6 +1,11 @@
-## 👋 Hey! An-yeong!  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rosie B.H Lee
+===================================================================================================================================== 
+Front-end Developer
+-------------------
 
-Hello! I'm Rosie, Front-end developer in Vancouver, Canada!
+After making a bold career switch, I've been diving deep into the world of coding for the past seven months. Although I do have a degree in Computer Science, I've found that most of my recent learning has been through my own self-guided exploration. 
+
+I'm incredibly passionate about constantly expanding my knowledge and skills, and I'm always on the lookout for exciting new opportunities to grow. Let's connect and embark on this coding adventure together! 🚀
 
 ## 🔭 Things I code with
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -14,7 +19,7 @@ Hello! I'm Rosie, Front-end developer in Vancouver, Canada!
 
 
 ## ⚡ Fun fact about me
-- Currently doing #100DaysOfCode challanges! Check out instagram:@developingwithrosie 
+- Currently doing #100DaysOfCode challanges! Check out [Instagram](https://www.instagram.com/developingwithrosie/) 
 - Interested in self-motivation
 - I am an 'Active couch-potatoe'! 
 - Love building Harry Potter Legos 
