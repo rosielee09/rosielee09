@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rosie B.H Lee
 ===================================================================================================================================== 
-Front-end Developer
+Front End Developer
 -------------------
 
 After making a bold career switch, I've been diving deep into the world of coding for the past seven months. Although I do have a degree in Computer Science, I've found that most of my recent learning has been through my own self-guided exploration. 
