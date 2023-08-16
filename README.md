@@ -25,7 +25,6 @@ I'm incredibly passionate about constantly expanding my knowledge and skills, an
 
 
 ## ⚡ Fun fact about me
-- Currently doing #100DaysOfCode challanges! Check it out! <a href="http://www.instagram.com/developingwithrosie/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 - Interested in self-motivation
 - I am an 'Active couch-potatoe'! 
 - Love building Harry Potter Legos 
@@ -34,4 +33,4 @@ I'm incredibly passionate about constantly expanding my knowledge and skills, an
 ## 👯 Let's connect
 <p align="left">
   <a href="https://www.linkedin.com/in/rosie-bh-lee/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.github.com/rosielee09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/developingwithrosie/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
+  <a href="https://www.github.com/rosielee09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
